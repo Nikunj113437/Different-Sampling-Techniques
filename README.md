@@ -22,6 +22,7 @@ In this Project, I have taken a Credit Card Fraud Detection Dataset and create 5
 After that, I applied 5 different ML Algorithms/Models and find out the accuracy of model over each Sample.
 
 ### Result Computed:
-Among the 5 ML Models, XGBoost and Random Forest Classifier both gives Best Accuracy over each Sample
+Among the 5 ML Models, XGBoost and Random Forest Classifier both gives Best Accuracy over each Sample.
+
 <img width="463" alt="image" src="https://user-images.githubusercontent.com/72342649/219959151-4c528772-a81e-4a07-90a3-fc07f2b60783.png">
 
