@@ -3,7 +3,7 @@ Sampling is the process of selecting a subset of individuals, items, or observat
 
 There are several different sampling techniques that can be used, including:
 
-### Simple random sampling: 
+## Simple random sampling: 
 In this technique, each member of the population has an equal chance of being selected for the sample.
 
 ### Stratified sampling: 
